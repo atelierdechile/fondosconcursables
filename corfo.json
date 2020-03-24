@@ -10,7 +10,7 @@
 {"name": "Gerencia Innovación", 
 "children": [
 {"name": "Crea y Valida", "children":[{"name": "Fecha Cierre: Abril", "size": 100},{"name": "Tope Subsidio: 100000000", "size": 100}]},
-{"name": "Crea y Valida AT", "children":[{"name": "Fecha Cierre: Abril", "size": 100},{"name": "Tope Subsidio: 100000000", "size": 100}]},
+{"name": "Crea y Valida AT", "children":[{"name": "Fecha Cierre: Abril", "size": 100},{"name": "Tope Subsidio: 100000000", "size": 100}]}
 ]}
 
 
