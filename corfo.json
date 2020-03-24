@@ -1,8 +1,17 @@
 {"name": "CORFO",
  "children": [
-             {"name": "Subgerencia Emprendimiento",
+             {"name": "Gerencia de Emprendimiento",
               "children": [
-                          {"name": "KM - Latch",
+                          {"name": "Start Up Chile - Seed 24",
+                          "children": [ {"name": "Fecha cierre: 16 Abril", "size": 1005},
+                                        {"name": "Alphabetic", "size": 1004},
+                                        {"name": "Timeline", "size": 1003},
+                                        {"name": "Category", "size": 1002},
+                                        {"name": "Hierarchy", "size": 1001}
+                                      ]
+                          }
+                          ,
+                          {"name": "Gerencia Redes y Competitividad",
                           "children": [ {"name": "Location", "size": 1005},
                                         {"name": "Alphabetic", "size": 1004},
                                         {"name": "Timeline", "size": 1003},
@@ -12,7 +21,7 @@
                           }
                           ]
              }, 
-             {"name": "Objects for Real Desing",
+             {"name": "Gerencia de innovación",
               "children": [ {"name": "Water", "size": 2001},
                             {"name": "xtream Situations", "size": 2002},
                             {"name": "Drones", "size": 2003},
