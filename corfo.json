@@ -5,6 +5,9 @@
 "children": [
 {"name": "Start Up Chile - Seed 24", "children":[{"name": "Fecha Cierre: 8 Abril", "size": 100}, {"name": "Tope Subsidio: 25000000"}, {"name": "URL: https://www.startupchile.org/es/programs/seed/", "size": 100}]},
 {"name": "Huella", "children":[{"name": "Fecha Cierre: S/I", "size": 100}, {"name": "Tope Subsidio: S/I"}, {"name": "URL: S/I", "size": 100}]},
+{"name": "VIRALIZA - Difusión El Viaje del Emprendedor", "children":[{"name": "Fecha Cierre: 17 Abril", "size": 100}, {"name": "Tope Subsidio: "}, {"name": "URL: http://corfo.cl/sites/cpp/convocatorias/viraliza-llamado_especial_el_viaje_del_emprendedor", "size": 100}]},
+{"name": "VIRALIZA - Educación para el Emprendimiento en Escolares", "children":[{"name": "Fecha Cierre: 17 Abril", "size": 100}, {"name": "Tope Subsidio: "}, {"name": "URL: http://corfo.cl/sites/cpp/convocatorias/viraliza-llamado_especial_educacion_emprendimiento_escolares", "size": 100}]},
+{"name": "VIRALIZA - El Viaje del Emprendedor Zona Norte", "children":[{"name": "Fecha Cierre: 18 Abril", "size": 100}, {"name": "Tope Subsidio: "}, {"name": "URL: http://corfo.cl/sites/cpp/convocatorias/viraliza-llamado_especial_el_viaje_del_emprendedor-zona_norte", "size": 100}]},
 {"name": "The S Factory (Women)", "children":[{"name": "Fecha Cierre: S/I", "size": 100}, {"name": "Tope Subsidio: S/I"}, {"name": "URL: https://www.startupchile.org/es/programs/seed/", "size": 100}]}
 ]},
 {"name": "Gerencia Innovación", 
@@ -13,6 +16,11 @@
 {"name": "Súmate a Innovar", "children":[{"name": "Fecha Cierre: 16 Abril", "size": 100}, {"name": "Tope Subsidio: 10000000"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/sumate_a_innovar", "size": 100}]},
 {"name": "Súmate a Innovar Ecodiseño", "children":[{"name": "Fecha Cierre: 16 Abril", "size": 100}, {"name": "Tope Subsidio: 10000000"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/sumate_ecodiseno", "size": 100}]},
 {"name": "Innova Alta Tecnología", "children":[{"name": "Fecha Cierre: 16 Abril", "size": 100}, {"name": "Tope Subsidio: 400000000"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/innova_alta_tecnologia", "size": 100}]}
+]},
+{"name": "Especial COVID", 
+"children": [
+{"name": "Equipo de respiración mecánica utilizando Ambú", "children":[{"name": "Fecha Cierre: 4 Abril", "size": 100}, {"name": "Tope Subsidio: Open Source"}, {"name": "URL: https://colaboratech.cl/covid19/desafiosprivados/", "size": 100}]},
+{"name": "Telemetría de Ventiladores Mecánicos en unidades UCI", "children":[{"name": "Fecha Cierre: 4 Abril", "size": 100}, {"name": "Tope Subsidio: Open Source"}, {"name": "URL: https://colaboratech.cl/covid19/desafiosprivados/", "size": 100}]}
 ]},
 {"name": "Gerencia Capacidades Tecnológicas", 
 "children": [
