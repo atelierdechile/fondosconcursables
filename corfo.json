@@ -16,7 +16,8 @@
 {"name": "Súmate a Innovar", "children":[{"name": "Fecha Cierre: 16 Abril", "size": 100}, {"name": "Tope Subsidio: 10000000"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/sumate_a_innovar", "size": 100}]},
 {"name": "Súmate a Innovar Ecodiseño", "children":[{"name": "Fecha Cierre: 16 Abril", "size": 100}, {"name": "Tope Subsidio: 10000000"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/sumate_ecodiseno", "size": 100}]},
 {"name": "Conecta y Colabora", "children":[{"name": "Fecha Cierre: 16 Abril", "size": 100}, {"name": "Tope Subsidio: 30000000"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/conecta_y_colabora", "size": 100}]},
-{"name": "Fortalece PYME", "children":[{"name": "Fecha Cierre: 30 Abril", "size": 100}, {"name": "Tope Subsidio: 600000000"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/fortalece_pyme", "size": 100}]},
+{"name": "Fortalece PYME", "children":[{"name": "Fecha Cierre: 30 Abril", "size": 100}, {"name": "Tope Subsidio: 600000000 en 3 años"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/fortalece_pyme", "size": 100}]},
+{"name": "Innova Región", "children":[{"name": "Fecha Cierre: 16 abril", "size": 100}, {"name": "Tope Subsidio: 40000000 en 2 etapas"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/innova_region", "size": 100}]},
 {"name": "Innova Alta Tecnología", "children":[{"name": "Fecha Cierre: 16 Abril", "size": 100}, {"name": "Tope Subsidio: 400000000"}, {"name": "URL: https://www.corfo.cl/sites/cpp/convocatorias/innova_alta_tecnologia", "size": 100}]}
 ]},
 {"name": "Especial COVID", 
@@ -39,8 +40,6 @@
 {"name": "Concurso", "children":[{"name": "Fecha Cierre: S/I", "size": 100}, {"name": "Tope Subsidio: S/I"}, {"name": "URL: S/I", "size": 100}]},
 {"name": "Concurso 2", "children":[{"name": "Fecha Cierre: S/I", "size": 100}, {"name": "Tope Subsidio: S/I"}, {"name": "URL: S/I", "size": 100}]}
 ]}
-
-
 
 
 ] }
